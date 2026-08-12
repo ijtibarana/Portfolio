@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block nothing — the whole portfolio is meant to be crawlable.
+Disallow: /assets/js/
+Crawl-delay: 1
+
+Sitemap: https://ijtibarana.com/sitemap.xml
